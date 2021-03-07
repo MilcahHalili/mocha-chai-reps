@@ -1,0 +1,23 @@
+{
+  "name": "mocha-chai-reps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MilcahHalili/mocha-chai-reps.git"
+  },
+  "author": "milcah halili",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MilcahHalili/mocha-chai-reps/issues"
+  },
+  "homepage": "https://github.com/MilcahHalili/mocha-chai-reps#readme",
+  "dependencies": {
+    "chai": "^4.3.3",
+    "mocha": "^8.3.1"
+  }
+}
